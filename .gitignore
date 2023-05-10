@@ -3,3 +3,4 @@
 
 *.pem
 *.pub
+*.DS_STORE
